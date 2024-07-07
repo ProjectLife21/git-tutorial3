@@ -1,1 +1,1 @@
-branch from branch1
+Branch from branch2
